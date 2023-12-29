@@ -1,2 +1,2 @@
 console.log('feature3');
-console.log('conflict');
+console.log('conflict 2');
